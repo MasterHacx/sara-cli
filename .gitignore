@@ -1,0 +1,50 @@
+# Python
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+.Python
+
+# Virtual environments
+env/
+venv/
+.venv/
+
+# Testing
+.tox/
+.coverage
+.coverage.*
+.cache
+nosetests.xml
+coverage.xml
+*.cover
+*.log
+.mypy_cache
+.pytest_cache
+.hypotheses
+
+# IDE
+.vscode/
+.idea/
+
+# Git
+.git
+
+# Local Config & User Data (keep out of repo)
+config.json
+sara_custom_settings.json
+sara_memory.json
+sara_chat_history.json
+database/
+memory/
+todo.txt
+
+# SARA runtime artifacts
+temp_react_*.py
+test_react_*.py
+skills/
+
+# Environment secrets
+.env
+skills.json
+database/

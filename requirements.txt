@@ -1,0 +1,10 @@
+requests
+rich
+prompt_toolkit
+psutil
+groq
+PyPDF2
+python-docx
+openpyxl
+pillow
+pyperclippython-dotenv>=1.0.0
